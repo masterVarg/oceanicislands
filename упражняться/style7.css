@@ -1,0 +1,60 @@
+body{
+    background: rgb(21, 253, 253);
+}
+img{
+    width: maxpx;
+    height: maxpx;
+}
+.info{
+background-color: rgb(247, 0, 255);
+    border:
+    3px       /* width */
+    solid     /* style */
+    blueviolet;  /* color */
+    border-width: thick;
+}
+.mav{
+background-color: rgb(255, 255, 255);
+    border:
+    3px       /* width */
+    solid     /* style */
+    rgb(0, 0, 0);  /* color */
+    border-width: thick;
+}
+.shri{
+    background-color: rgb(8, 230, 45);
+    border:
+    3px       /* width */
+    solid     /* style */
+    rgb(97, 21, 168);  /* color */
+    border-width: thick;  
+}
+.mad{
+    background-color: rgba(152, 9, 247, 0.247);
+    border:
+    3px       /* width */
+    solid     /* style */
+    rgb(194, 53, 76);  /* color */
+    border-width: thick;    
+}
+
+
+.i{
+    border:
+    3px       /* width */
+    solid     /* style */
+    rgb(38, 0, 255);  /* color */
+    border-width: thick;       
+}
+
+
+
+
+.i{
+ background-color: rgb(8, 230, 45);
+    border:
+    3px       /* width */
+    solid     /* style */
+    rgb(97, 21, 168);  /* color */
+    border-width: thick;  
+}
